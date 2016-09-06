@@ -1,2 +1,3 @@
 vim=http://vim.rtorr.com
 mac=https://github.com/0nn0/terminal-mac-cheatsheet
+bash=https://gist.github.com/LeCoupa/122b12050f5fb267e75f
