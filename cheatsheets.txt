@@ -1,0 +1,2 @@
+vim=http://vim.rtorr.com
+mac=https://github.com/0nn0/terminal-mac-cheatsheet
